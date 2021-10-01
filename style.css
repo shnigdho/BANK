@@ -20,13 +20,13 @@ h1{
     display: none;
 }
 .deposit{
-    background-color: slateblue;
+    background-color: rgb(9, 89, 109);
 }
 .withdraw{
-    background-color: lightsalmon;
+    background-color: rgb(189, 87, 46);
 }
 .balance{
-    background-color: orange;
+    background-color: rgb(5, 102, 5);
 }
 .status{
     margin: 0 20px;
